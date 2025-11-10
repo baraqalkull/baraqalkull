@@ -25,7 +25,7 @@ const About: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-20">
             <div>
               <img
-                src="about.jpg"
+                src="about.webp"
                 alt="Industrial oilfield operations and equipment in UAE"
                 className="w-full h-96 object-cover rounded-xl shadow-lg"
               />
