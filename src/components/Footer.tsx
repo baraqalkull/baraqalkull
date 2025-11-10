@@ -53,7 +53,7 @@ const Footer: React.FC = () => {
               
               <div className="flex items-center space-x-3">
                 <Mail className="h-5 w-5 text-[rgb(255,193,7)] flex-shrink-0" />
-                <p className="text-gray-300 text-sm">info@baraqalkull.com</p>
+                <p className="text-gray-300 text-sm">sales@baraqalkull.com</p>
               </div>
             </div>
           </div>
