@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: /sitemap.xml
+Sitemap: https://www.baraqalkull.com/sitemap.xml
 
 # Allow crawling of all content
 Disallow: /admin/
