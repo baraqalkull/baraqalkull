@@ -2,6 +2,3 @@ User-agent: *
 Allow: /
 Sitemap: https://www.baraqalkull.com/sitemap.xml
 
-# Allow crawling of all content
-Disallow: /admin/
-Disallow: /private/
